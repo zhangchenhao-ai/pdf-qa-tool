@@ -1,4 +1,5 @@
 # PDF 问答工具
+<img width="2343" height="1081" alt="image" src="https://github.com/user-attachments/assets/a1e25afa-9598-4c9f-a561-7bd6cb6cade3" />
 
 ## 这个项目是干嘛的
 用 Python 读取 PDF 文件，调用 DeepSeek API，让 AI 基于 PDF 内容回答问题。
